@@ -1,0 +1,7 @@
+export const POST_SIGNUP = "POST_SIGNUP";
+export const POST_LOGIN = "POST_LOGIN";
+export const POST_GOOGLE = "POST_GOOGLE";
+export const SET_TOKEN = "SET_TOKEN";
+export const POST_FORGOTPASSWORD = "POST_FORGOTPASSWORD";
+export const PATCH_RESETPASSWORD = "PATCH_RESETPASSWORD";
+export const SET_LOADING = "SET_LOADING";
